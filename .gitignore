@@ -5,3 +5,5 @@ __pycache__/
 .venv/
 venv/
 *.pdf
+.idea/
+project_structure.txt
